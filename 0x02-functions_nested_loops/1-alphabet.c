@@ -7,12 +7,6 @@
  */
 int main(void)
 {
-int j;
-
-id print_alphabet(void)
-for (j = 'a'; j<= 'z'; j++)
-       {
-         _putchar (j);
-       }
-_putchar('\n');
+ print_alphabet(void)
+ return (0);	 
 }
